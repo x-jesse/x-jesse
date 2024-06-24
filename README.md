@@ -1,5 +1,7 @@
 ### Hi! 👋 Thanks for stopping by - have some snacks while you look around 🍿🍿🍿 🫲😃
 
+I like RL, and making educational content, and making educational content about RL
+
 <!--
 **x-jesse/x-jesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
