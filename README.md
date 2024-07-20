@@ -2,6 +2,8 @@
 ### `Hi! Thanks for stopping by - have some snacks while you look around 🍿🍿🍿🫲😃`
 ```
 I like RL, and making educational content, and making educational content about RL
+
+(˶ᵔ ᵕ ᵔ˶)
 ```
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
