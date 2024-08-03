@@ -1,7 +1,13 @@
 
 ### Hi! Thanks for stopping by - have some snacks while you look around 🍿🍿🍿🫲😃
 ```
-I like RL, and making educational content, and making educational content about RL
+I'm a mechatronics student with a passion for reinforcement learning and generative AI 😎. I've worked @ Loblaw, Rogers, Blackberry, & Geotab developing
+E2E automated solutions using Python, ML, and cloud technologies.
+
+Feel free to connect!
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jesse-xia/)
+
 
 (˶ᵔ ᵕ ᵔ˶)
 ```
