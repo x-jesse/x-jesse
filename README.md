@@ -2,7 +2,7 @@
 ### Hi! Thanks for stopping by - have some snacks while you look around 🍿🍿🍿🫲😃
 
 - Hi, I'm Jesse 👋! I'm a mechatronics student with a passion for reinforcement learning and generative AI 😎. I've worked @ Loblaw, Rogers, Blackberry, & Geotab developing
-E2E automated solutions using Python, ML, and cloud technologies.
+E2E automated solutions using Python 🐍, ML 🤖, and cloud technologies ☁️.
 
 <!-- Here's some of my favourite projects over the years:
 
