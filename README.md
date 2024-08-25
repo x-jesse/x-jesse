@@ -10,7 +10,7 @@ E2E automated solutions using Python 🐍, ML 🤖, & cloud technologies ☁️.
 - [Flappy Flappy Bird](https://github.com/x-jesse/pose-estimation-flappy-bird): A flappy bird clone controlled via computer vision & pose-estimation using machine learning!
 - [More TBA]() 📢 (Still writing READMEs... 🙃) -->
 
-- 🌐 You can find more of my work on my [website 🦖](https://x-jesse.github.io/) :)
+- 🌐 You can find more of my work on my [website](https://x-jesse.github.io/) 🦖 :)
 
 
 - 🌱 (˶ᵔ ᵕ ᵔ˶) Currently learning about 3d monocular vehicle detection, training models on the KITTI datset
