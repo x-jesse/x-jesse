@@ -15,7 +15,7 @@ E2E automated solutions using Python 🐍, ML 🤖, & cloud technologies ☁️.
 
 - 🌱 (˶ᵔ ᵕ ᵔ˶) Currently learning about 3d monocular vehicle detection, training models on the KITTI datset
 
-- ✍️ Writing my Medium article on reinforcement learning!
+- ✍️ Writing my Medium series on reinforcement learning!
 
 Feel free to connect!
 
