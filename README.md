@@ -19,7 +19,8 @@ E2E automated solutions using Python 🐍, ML 🤖, & cloud technologies ☁️.
 
 Feel free to connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-xia/)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@x-jesse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-xia/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@x-jesse)
 
 PS. Don't forget to take some cookies on the way out 🙂 🤤
 🍪🍪🍪🍪 🍪🍪🍪🍪🍪 🍪🍪🍪 🍪🍪
