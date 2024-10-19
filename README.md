@@ -12,8 +12,7 @@ E2E automated solutions using Python 🐍, ML 🤖, & cloud technologies ☁️.
 
 - 🌐 You can find more of my work on my [website](https://x-jesse.github.io/) 🦖 :)
 
-
-- 🌱 (˶ᵔ ᵕ ᵔ˶) Currently learning about 3d monocular vehicle detection, training models on the KITTI datset
+- 🌱 (˶ᵔ ᵕ ᵔ˶) Currently learning about reinforcement learning, participating in hackathons, and grinding Leetcode :)
 
 - ✍️ Writing my Medium series on reinforcement learning!
 
